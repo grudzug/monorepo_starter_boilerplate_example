@@ -1,0 +1,10 @@
+node_modules
+dist
+build
+.turbo
+.next
+.vite
+pnpm-lock.yaml
+coverage
+**/*.md
+apps/frontend/src/routeTree.gen.ts
